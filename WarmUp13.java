@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WarmUp13Sep {
+public class WarmUp13 {
     static void myMethodUsingArray01(){
         int num1 = 0;
         System.out.println("\n Hello from myMethodUsingArray01\n\n");
@@ -16,7 +16,7 @@ public class WarmUp13Sep {
         num1 = animals.length;
         // TODO: output the length of the array
         // TODO: use the length of the array in a loop control variable to output 
-        the animals array
+        //the animals array
     }
     static void myMethodUsingArray02(String animal01, String animal02){
         System.out.println("\n Hello from myMethodUsingArray02\n\n");
